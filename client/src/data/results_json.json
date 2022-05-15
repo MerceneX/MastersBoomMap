@@ -1,0 +1,4594 @@
+{
+  "25": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "18.0", "21.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["25"],
+        "mesec": ["1", "10", "11", "12", "2", "3"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["25"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[25, "A2", "AC", "NOVO MESTO-KRONOVO"]],
+    "koordinate": [[45.8479649, 15.2493616]]
+  },
+  "8": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["8"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "16.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["8"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 2],
+    "kraj": [[8, "A2", "AC", "KRANJ V-BRNIK"]],
+    "koordinate": [[46.22247455, 14.4638476973802]]
+  },
+  "1183": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "17.0", "20.0", "9.0"],
+        "PRVR_Vreme": ["D", "M", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1183"],
+        "mesec": ["10", "12", "2", "6", "8"],
+        "dan": ["3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "16.0", "18.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1183"],
+        "mesec": ["1", "10", "4", "6", "7", "9"],
+        "dan": ["19d", "27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 3],
+    "kraj": [[1183, "108", "G2", "LITIJA-ZAGORJE"]],
+    "koordinate": [[45.9935289, 13.688525]]
+  },
+  "23": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "16.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "OS", "SP"],
+        "stevilka_odseka": ["23"],
+        "mesec": ["1", "10", "12", "2", "6"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["23"],
+        "mesec": ["10", "11", "12", "2", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 2, 4],
+    "kraj": [[23, "A2", "AC", "IVAN\u010cNA GORICA-BI\u010c"]],
+    "koordinate": [[42.8242037, 0.317761]]
+  },
+  "647": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "15.0", "16.0", "17.0", "4.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["647"],
+        "mesec": ["1", "10", "11", "12", "2", "5"],
+        "dan": ["11d", "12d", "15d", "16d", "17d"],
+        "dan_v_tednu": ["1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["647"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[647, "A1", "AC", "\u0160ENTJAKOB-LJ (ZADOBROVA)"]],
+    "koordinate": [[46.0901236, 14.5806172]]
+  },
+  "13": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "6.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["13"],
+        "mesec": ["1", "11", "12", "2", "7", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "13.0", "14.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["13"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 1],
+    "kraj": [[13, "A2", "AC", "\u0160ENTVID-KOSEZE"]],
+    "koordinate": [[46.1521003, 14.6878085]]
+  },
+  "7": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "14.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["7"],
+        "mesec": ["1", "12", "2", "3", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["7"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 2],
+    "kraj": [[7, "A2", "AC", "KRANJ Z-KRANJ V"]],
+    "koordinate": [[46.2389548, 14.3482471]]
+  },
+  "10": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["10"],
+        "mesec": ["1", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["10"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 1],
+    "kraj": [[10, "A2", "AC", "VODICE-LJ (\u0160MARTNO)"]],
+    "koordinate": [[43.7602196, 15.7788084]]
+  },
+  "1": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 1],
+    "kraj": [[1, "A2", "AC", "MEJA A (PREDOR)-HRU\u0160ICA"]],
+    "koordinate": [[45.5402866, 14.1211206]]
+  },
+  "18": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["18"],
+        "mesec": ["1", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["18"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 1],
+    "kraj": [[18, "A1", "AC", "LJ (DOLENJSKA-BARJANSKA)"]],
+    "koordinate": [[46.0389017, 14.4997678]]
+  },
+  "161": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "10.0",
+          "12.0",
+          "13.0",
+          "19.0",
+          "22.0",
+          "5.0",
+          "7.0",
+          "8.0"
+        ],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["161"],
+        "mesec": ["1", "10", "11", "12", "2", "5", "7"],
+        "dan": ["24d", "27d", "3d", "5d", "7d", "8d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["161"],
+        "mesec": ["2", "5", "7", "8", "9"],
+        "dan": ["4d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 5, 1],
+    "kraj": [[161, "A1", "AC", "PRIKLJU\u010cEK \u010cRNI KAL"]],
+    "koordinate": [null]
+  },
+  "48": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "18.0", "19.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["48"],
+        "mesec": ["1", "10", "11", "12", "9"],
+        "dan": ["30d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["48"],
+        "mesec": ["1", "10", "11", "3", "4", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[48, "A1", "AC", "LJ (ZADOBROVA-ZALO\u0160KA)"]],
+    "koordinate": [[46.0561384, 14.5473915]]
+  },
+  "1260": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1260"],
+        "mesec": ["1", "10", "11", "5", "7", "9"],
+        "dan": ["26d", "27d", "8d"],
+        "dan_v_tednu": ["2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "14.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1260"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "9"],
+        "dan": ["8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 2],
+    "kraj": [[1260, "4", "G1", "GORNJI DOLI\u010c-VELENJE"]],
+    "koordinate": [[46.3592869, 15.1150301]]
+  },
+  "9": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["18.0", "19.0", "20.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["9"],
+        "mesec": ["1", "11", "12", "2", "3", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["9"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 1],
+    "kraj": [[9, "A2", "AC", "BRNIK-VODICE"]],
+    "koordinate": [[43.7602196, 15.7788084]]
+  },
+  "32": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["32"],
+        "mesec": ["1", "10", "11", "12", "5", "8", "9"],
+        "dan": ["17d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "15.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["32"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 1, 4],
+    "kraj": [[32, "H2", "HC", "PESNICA-MARIBOR"]],
+    "koordinate": [[46.56253685, 15.6497598864047]]
+  },
+  "86": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "15.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["86"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "6", "9"],
+        "dan": ["11d", "16d", "24d", "3d", "9d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "15.0", "16.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["86"],
+        "mesec": ["1", "10", "11", "12", "2", "4", "7", "8"],
+        "dan": ["27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [3, 0, 2],
+    "kraj": [[86, "H3", "HC", "LJ (\u0160MARTINSKA-TOMA\u010cEVO)"]],
+    "koordinate": [[46.0834571, 14.5351791]]
+  },
+  "1012": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1012"],
+        "mesec": ["1", "11", "12", "2", "4", "5"],
+        "dan": ["19d", "20d", "2d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1012"],
+        "mesec": ["10", "12", "2", "4", "7", "8"],
+        "dan": ["22d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 5],
+    "kraj": [[1012, "204", "R1", "\u0160EMPETER-DORNBERK"]],
+    "koordinate": [[45.8884208, 13.7374317]]
+  },
+  "4": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["4"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["4"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[4, "A2", "AC", "LESCE-BREZJE"]],
+    "koordinate": [[45.3203494, 17.8698332]]
+  },
+  "16": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "6.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["16"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "9"],
+        "dan": ["7d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["16"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 1],
+    "kraj": [[16, "A1", "AC", "LJ (VI\u010c-KOZARJE)"]],
+    "koordinate": [[46.041693, 14.4471931]]
+  },
+  "165": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "18.0", "19.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["165"],
+        "mesec": ["1", "10", "11", "2", "9"],
+        "dan": ["14d", "15d", "18d", "26d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["165"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7"],
+        "dan": ["4d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 2],
+    "kraj": [[165, "A3", "AC", "PRIKLJU\u010cEK SE\u017dANA"]],
+    "koordinate": [null]
+  },
+  "37": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "18.0", "21.0", "22.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["37"],
+        "mesec": ["1", "11", "2", "4", "9"],
+        "dan": ["16d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "17.0", "19.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["37"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 0],
+    "kraj": [[37, "A1", "AC", "SL. BISTRICA-SL. KONJICE"]],
+    "koordinate": [[46.38540235, 15.565238265673]]
+  },
+  "46": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "5.0", "6.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["46"],
+        "mesec": ["10", "2", "3", "6", "7", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "19.0", "21.0", "6.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["46"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "7", "9"],
+        "dan": ["6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      }
+    },
+    "dan_teden": [2, 4, 3, 0],
+    "kraj": [[46, "A1", "AC", "DOM\u017dALE-\u0160ENTJAKOB"]],
+    "koordinate": [[46.0901236, 14.5806172]]
+  },
+  "28": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "15.0", "16.0", "17.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["28"],
+        "mesec": ["1", "11", "12", "2", "4", "6", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["28"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[28, "A2", "AC", "DRNOVO-BRE\u017dICE"]],
+    "koordinate": [[45.9057461, 15.5970336]]
+  },
+  "27": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "18.0", "7.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["27"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5"],
+        "dan": ["3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["27"],
+        "mesec": ["11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 1],
+    "kraj": [[27, "A2", "AC", "DOBRU\u0160KA VAS-DRNOVO"]],
+    "koordinate": [[45.9168477, 15.4865859]]
+  },
+  "55": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["55"],
+        "mesec": ["1", "11", "12", "2", "5", "6", "9"],
+        "dan": ["11d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["55"],
+        "mesec": ["10", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 4, 0],
+    "kraj": [[55, "A1", "AC", "UNEC-POSTOJNA"]],
+    "koordinate": [[45.7752438, 14.2117877]]
+  },
+  "210": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "15.0", "16.0", "19.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["210"],
+        "mesec": ["1", "11", "12", "2", "3", "9"],
+        "dan": ["3d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["210"],
+        "mesec": ["1", "10", "3", "4", "6", "7", "8", "9"],
+        "dan": ["18d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[210, "412", "R2", "KR (ISKRA-LABORE)"]],
+    "koordinate": [[-26.3341667, 28.36]]
+  },
+  "47": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "17.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["47"],
+        "mesec": ["1", "10", "11", "12", "2"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "15.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["47"],
+        "mesec": ["1", "10", "11", "12", "3", "6", "7", "8", "9"],
+        "dan": ["21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 2, 4],
+    "kraj": [[47, "A1", "AC", "\u0160ENTJAKOB-LJ (ZADOBROVA)"]],
+    "koordinate": [[46.0901236, 14.5806172]]
+  },
+  "1203": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "19.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1203"],
+        "mesec": ["1", "11", "12", "6"],
+        "dan": ["26d", "28d", "2d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1203"],
+        "mesec": ["10", "3", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 0],
+    "kraj": [[1203, "419", "R2", "SOTESKA-NOVO MESTO"]],
+    "koordinate": [[45.8007691, 15.1702475]]
+  },
+  "2": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["2"],
+        "mesec": ["1", "11", "12", "2"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["2"],
+        "mesec": ["10", "11", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 3],
+    "kraj": [[2, "A2", "AC", "HRU\u0160ICA-LIPCE"]],
+    "koordinate": [[50.9428264, 18.5869065]]
+  },
+  "1062": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1062"],
+        "mesec": ["1", "10", "11", "12", "2", "4", "9"],
+        "dan": ["17d", "18d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1062"],
+        "mesec": ["5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 5, 1, 0],
+    "kraj": [[1062, "11", "G1", "KOPER-DRAGONJA"]],
+    "koordinate": [[45.4584369, 13.7159079]]
+  },
+  "131": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "18.0", "22.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["131"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": ["14d", "1d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "16.0", "18.0", "19.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["131"],
+        "mesec": ["1", "10", "3", "4", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 6, 4, 1],
+    "kraj": [[131, "H2", "HC", "PRIKLJU\u010cEK MARIBOR CENTER (MELJSKA C.)"]],
+    "koordinate": [null]
+  },
+  "12": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["12"],
+        "mesec": ["1", "11", "12", "2", "4", "5", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["12"],
+        "mesec": ["10", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 2, 1],
+    "kraj": [[12, "A2", "AC", "LJ (BROD-\u0160ENTVID)"]],
+    "koordinate": [[46.0968344, 14.466245]]
+  },
+  "66": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "18.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["66"],
+        "mesec": ["1", "11", "12", "2", "3", "5", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["66"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[66, "A1", "AC", "MARIBOR (PTUJSKA)-SLIVNICA"]],
+    "koordinate": [[40.9586103, 21.080741]]
+  },
+  "69": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["69"],
+        "mesec": ["12", "2", "9"],
+        "dan": ["10d", "18d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": [
+          "10.0",
+          "11.0",
+          "12.0",
+          "13.0",
+          "14.0",
+          "15.0",
+          "16.0",
+          "18.0",
+          "9.0"
+        ],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["69"],
+        "mesec": ["1", "10", "11", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 0, 4],
+    "kraj": [[69, "A3", "AC", "SE\u017dANA V-SE\u017dANA Z"]],
+    "koordinate": [[45.7073299, 13.8684576]]
+  },
+  "50": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "16.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["50"],
+        "mesec": ["1", "11", "12", "2", "4", "5", "9"],
+        "dan": ["14d", "2d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["50"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [3, 4, 0],
+    "kraj": [[50, "A1", "AC", "LJ (LITIJSKA-MALENCE)"]],
+    "koordinate": [[45.8854998, 15.5679871]]
+  },
+  "1259": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["6.0", "7.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1259"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "4", "7"],
+        "dan": ["13d", "28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1259"],
+        "mesec": ["10", "11", "12", "3", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 0],
+    "kraj": [[1259, "4", "G1", "SL. GRADEC-GORNJI DOLI\u010c"]],
+    "koordinate": [[46.8398816, 16.1167139]]
+  },
+  "21": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["21"],
+        "mesec": ["1", "11", "12", "2", "5", "6", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["21"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[21, "A2", "AC", "\u0160MARJE SAP-GROSUPLJE"]],
+    "koordinate": [[45.9757234, 14.6117368]]
+  },
+  "31": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "18.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["31"],
+        "mesec": ["1", "11", "12", "2", "4", "9"],
+        "dan": ["21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["31"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 1, 4],
+    "kraj": [[31, "A1", "AC", "\u0160ENTILJ-PESNICA"]],
+    "koordinate": [[46.6139679, 15.661717]]
+  },
+  "54": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "16.0", "20.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["54"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "9"],
+        "dan": ["2d", "30d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["54"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 1, 4],
+    "kraj": [[54, "A1", "AC", "LOGATEC-UNEC"]],
+    "koordinate": [[45.8195524, 14.2908996]]
+  },
+  "177": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "14.0", "15.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["177"],
+        "mesec": ["1", "10", "11", "2", "5", "9"],
+        "dan": ["25d", "29d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "13.0", "14.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["177"],
+        "mesec": ["12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [3, 5, 2],
+    "kraj": [[177, "A5", "AC", "PRIKLJU\u010cEK TURNI\u0160\u010cE"]],
+    "koordinate": [null]
+  },
+  "22": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "16.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["22"],
+        "mesec": ["10", "11", "12", "2", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["22"],
+        "mesec": ["10", "11", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 3, 2],
+    "kraj": [[22, "A2", "AC", "GROSUPLJE-IVAN\u010cNA GORICA"]],
+    "koordinate": [[45.9385838, 14.8042412]]
+  },
+  "11": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["11"],
+        "mesec": ["1", "12", "2", "5", "9"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["11"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 0, 4],
+    "kraj": [[11, "A2", "AC", "LJ (\u0160MARTNO-BROD)"]],
+    "koordinate": [[45.1656207, 18.0121303]]
+  },
+  "17": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "15.0", "18.0", "23.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["17"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": ["20d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "18.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["17"],
+        "mesec": ["11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[17, "A1", "AC", "LJ (BARJANSKA-VI\u010c)"]],
+    "koordinate": [[-36.5986096, 144.6780052]]
+  },
+  "85": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "18.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["85"],
+        "mesec": ["1", "10", "12", "2", "9"],
+        "dan": ["15d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["85"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 1, 5, 0],
+    "kraj": [[85, "H3", "HC", "LJ (ZADOBROVA-\u0160MARTINSKA)"]],
+    "koordinate": [[46.0618304, 14.5239313]]
+  },
+  "261": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "17.0", "19.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL", "SP"],
+        "stevilka_odseka": ["261"],
+        "mesec": ["1", "10", "11", "12", "2"],
+        "dan": ["11d", "2d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["16.0", "21.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["261"],
+        "mesec": ["10", "3", "4", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 5],
+    "kraj": [[261, "106", "G2", "\u0160KOFLJICA-RA\u0160ICA"]],
+    "koordinate": [[45.8512234, 14.6226104]]
+  },
+  "45": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "15.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "M", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["45"],
+        "mesec": ["1", "10", "11", "12", "2", "7", "9"],
+        "dan": ["16d", "7d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["45"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "8", "9"],
+        "dan": ["16d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      }
+    },
+    "dan_teden": [3, 0, 2],
+    "kraj": [[45, "A1", "AC", "KRTINA-DOM\u017dALE"]],
+    "koordinate": [[46.1497506, 14.6502883]]
+  },
+  "1275": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["1275"],
+        "mesec": ["1", "10", "11", "2", "9"],
+        "dan": ["1d", "22d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "14.0", "15.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1275"],
+        "mesec": ["11", "2", "3", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 1, 5, 4, 0],
+    "kraj": [[1275, "107", "G2", "\u0160ENTJUR-MESTINJE"]],
+    "koordinate": [[46.2363538, 15.5631675]]
+  },
+  "26": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "17.0", "18.0", "20.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["26"],
+        "mesec": ["1", "12", "2", "3", "5", "7", "8"],
+        "dan": ["14d", "1d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["26"],
+        "mesec": ["11", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 0],
+    "kraj": [[26, "A2", "AC", "KRONOVO-DOBRU\u0160KA VAS"]],
+    "koordinate": [[45.8896553, 15.3056615]]
+  },
+  "36": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "17.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["36"],
+        "mesec": ["1", "11", "12", "2", "3"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["36"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[36, "A1", "AC", "FRAM-SL. BISTRICA"]],
+    "koordinate": [[46.38540235, 15.565238265673]]
+  },
+  "6": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "15.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["6"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["6"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 5],
+    "kraj": [[6, "A2", "AC", "PODTABOR-KRANJ Z"]],
+    "koordinate": [[46.2432635, 14.3549501]]
+  },
+  "178": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "17.0", "18.0", "19.0", "20.0", "22.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "OS"],
+        "stevilka_odseka": ["178"],
+        "mesec": ["1", "10", "11", "2", "3", "7", "9"],
+        "dan": ["11d", "22d", "26d", "28d", "8d"],
+        "dan_v_tednu": ["0", "1", "3", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["178"],
+        "mesec": ["1", "11", "12", "3", "4", "5", "6", "7", "8"],
+        "dan": ["10d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[178, "H3", "HC", "PRIKLJU\u010cEK LJUBLJANA PODUTIK KOSEZE"]],
+    "koordinate": [null]
+  },
+  "38": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "20.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["38"],
+        "mesec": ["1", "12", "2", "3"],
+        "dan": ["15d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "18.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["38"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 0, 4],
+    "kraj": [[38, "A1", "AC", "SL. KONJICE-DRAMLJE"]],
+    "koordinate": [[46.2718383, 15.3929582]]
+  },
+  "35": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["35"],
+        "mesec": ["10", "11", "12", "2", "3", "4", "6", "9"],
+        "dan": ["14d", "19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["35"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 5, 1],
+    "kraj": [[35, "A1", "AC", "SLIVNICA-FRAM"]],
+    "koordinate": [[46.4622073, 15.6530969]]
+  },
+  "1182": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "14.0", "18.0", "6.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1182"],
+        "mesec": ["1", "10", "11", "2", "3"],
+        "dan": ["24d", "2d", "30d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "20.0", "21.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1182"],
+        "mesec": ["1", "10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 5],
+    "kraj": [[1182, "108", "G2", "RIB\u010cE-LITIJA"]],
+    "koordinate": [[46.099503, 14.7699601]]
+  },
+  "415": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "16.0", "5.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["415"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "9"],
+        "dan": ["26d", "30d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["415"],
+        "mesec": ["10", "11", "3", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 0, 4],
+    "kraj": [[415, "448", "R2", "PRIKLJU\u010cEK OTO\u010cEC"]],
+    "koordinate": [null]
+  },
+  "5": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "17.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["5"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["5"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 3, 4],
+    "kraj": [[5, "A2", "AC", "BREZJE-PODTABOR"]],
+    "koordinate": [[45.6059224, 14.2278335]]
+  },
+  "1178": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "15.0", "17.0", "20.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "M", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "PP", "SP"],
+        "stevilka_odseka": ["1178"],
+        "mesec": ["1", "12", "2", "3", "9"],
+        "dan": ["19d", "29d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "15.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1178"],
+        "mesec": ["4", "5", "6", "7", "8", "9"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 0, 3],
+    "kraj": [[1178, "216", "R1", "\u010cRMO\u0160NJICE-\u010cRNOMELJ"]],
+    "koordinate": [[45.5696669, 15.1923173]]
+  },
+  "258": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "18.0", "19.0", "20.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["258"],
+        "mesec": ["1", "11", "12", "2", "6", "9"],
+        "dan": ["19d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["258"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 2],
+    "kraj": [[258, "105", "G2", "METLIKA-MOST \u010cEZ KOLPO"]],
+    "koordinate": [[45.6460566, 15.3196742]]
+  },
+  "1292": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "12.0",
+          "14.0",
+          "16.0",
+          "17.0",
+          "19.0",
+          "5.0",
+          "6.0",
+          "8.0"
+        ],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["1292"],
+        "mesec": ["1", "10", "11", "12", "2", "5", "6", "7"],
+        "dan": ["22d", "28d", "2d", "4d", "5d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1292"],
+        "mesec": ["10", "11", "3", "5", "7", "8", "9"],
+        "dan": ["21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[1292, "710", "R3", "MARIBOR-VURBERK-PTUJ"]],
+    "koordinate": [[46.419351, 15.8709841]]
+  },
+  "1276": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "13.0", "17.0", "18.0", "5.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1276"],
+        "mesec": ["1", "12", "2", "7", "9"],
+        "dan": ["15d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1276"],
+        "mesec": ["10", "12", "4", "5", "6", "7", "8"],
+        "dan": ["28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[1276, "107", "G2", "PODPLAT-ROGATEC"]],
+    "koordinate": [[46.2265194, 15.7002159]]
+  },
+  "89": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "17.0", "20.0", "6.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["89"],
+        "mesec": ["1", "11", "12", "2", "3", "9"],
+        "dan": ["26d", "2d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["89"],
+        "mesec": ["10", "11", "12", "3", "8", "9"],
+        "dan": ["9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 3, 0],
+    "kraj": [[89, "H3", "HC", "LJ (DUNAJSKA-CELOV\u0160KA)"]],
+    "koordinate": [[48.6227181, 21.6366666]]
+  },
+  "328": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "18.0", "20.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["328"],
+        "mesec": ["1", "10", "12", "2", "5"],
+        "dan": ["14d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["328"],
+        "mesec": ["10", "11", "3", "4", "5", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 2, 1],
+    "kraj": [[328, "5", "G1", "CELJE-\u0160MARJETA"]],
+    "koordinate": [[46.2612734, 15.2812369]]
+  },
+  "43": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "13.0", "18.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["43"],
+        "mesec": ["1", "10", "12", "2", "3", "4", "5", "9"],
+        "dan": ["27d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["43"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 2],
+    "kraj": [[43, "A1", "AC", "VRANSKO-TROJANE"]],
+    "koordinate": [[46.1882207, 14.8861224]]
+  },
+  "52": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "22.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["52"],
+        "mesec": ["1", "11", "12", "2", "5", "6", "9"],
+        "dan": ["24d", "7d"],
+        "dan_v_tednu": ["1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "15.0", "16.0", "17.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["52"],
+        "mesec": ["4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 5, 4],
+    "kraj": [[52, "A1", "AC", "BREZOVICA-VRHNIKA"]],
+    "koordinate": [[45.9015014, 14.3895318]]
+  },
+  "3": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "20.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["3"],
+        "mesec": ["1", "10", "11", "12", "2"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["3"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 1],
+    "kraj": [[3, "A2", "AC", "LIPCE-LESCE"]],
+    "koordinate": [[46.3638142, 14.1555261]]
+  },
+  "1309": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["1309"],
+        "mesec": ["1", "11", "12", "2"],
+        "dan": ["18d"],
+        "dan_v_tednu": ["1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "16.0", "20.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1309"],
+        "mesec": ["10", "3", "6", "7", "8", "9"],
+        "dan": ["24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 5, 0],
+    "kraj": [[1309, "230", "R1", "KRI\u017dEVCI-LJUTOMER"]],
+    "koordinate": [[46.5417965, 16.1397633088963]]
+  },
+  "256": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["256"],
+        "mesec": ["1", "10", "11", "12", "4", "8", "9"],
+        "dan": ["15d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["256"],
+        "mesec": ["10", "11", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 5],
+    "kraj": [[256, "105", "G2", "NOVO MESTO (REVOZ)-METLIKA"]],
+    "koordinate": [[45.6460566, 15.3196742]]
+  },
+  "114": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["114"],
+        "mesec": ["10", "11", "12", "2", "5", "9"],
+        "dan": ["11d", "15d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0", "18.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["114"],
+        "mesec": ["1", "10", "11", "3", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 2, 4],
+    "kraj": [[114, "A2", "AC", "PRIKLJU\u010cEK LJ BRDO"]],
+    "koordinate": [null]
+  },
+  "352": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "20.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["352"],
+        "mesec": ["11", "2", "5", "9"],
+        "dan": ["1d", "27d", "6d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": [
+          "10.0",
+          "12.0",
+          "13.0",
+          "16.0",
+          "18.0",
+          "7.0",
+          "8.0",
+          "9.0"
+        ],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["352"],
+        "mesec": ["10", "11", "3", "5", "6", "7", "8", "9"],
+        "dan": ["13d", "16d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 2],
+    "kraj": [[352, "710", "R3", "HAJDINA-TURNI\u0160\u010cE"]],
+    "koordinate": [[46.6248885, 16.3165187]]
+  },
+  "19": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["19"],
+        "mesec": ["1", "10", "11", "12", "2", "3"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["19"],
+        "mesec": ["10", "3", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[19, "A1", "AC", "LJ (MALENCE-DOLENJSKA C.)"]],
+    "koordinate": [[46.0163765, 14.543624]]
+  },
+  "53": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "15.0", "16.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["53"],
+        "mesec": ["1", "10", "11", "12", "2"],
+        "dan": ["10d", "25d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "16.0", "17.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["53"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 0, 3],
+    "kraj": [[53, "A1", "AC", "VRHNIKA-LOGATEC"]],
+    "koordinate": [[45.9186891, 14.2275537188103]]
+  },
+  "1262": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1262"],
+        "mesec": ["1", "11", "12", "2", "6", "7", "9"],
+        "dan": ["27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1262"],
+        "mesec": ["10", "11", "12", "3", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[1262, "4", "G1", "\u010cRNOVA-ARJA VAS"]],
+    "koordinate": [[46.2557626, 15.194928]]
+  },
+  "67": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["67"],
+        "mesec": ["1", "12", "2", "3", "4"],
+        "dan": ["23d", "4d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["67"],
+        "mesec": ["1", "10", "11", "12", "3", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 0],
+    "kraj": [[67, "A1", "AC", "TROJANE-BLAGOVICA"]],
+    "koordinate": [[46.1761231, 14.8023885]]
+  },
+  "652": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["652"],
+        "mesec": ["1", "11", "12", "2", "9"],
+        "dan": ["12d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["652"],
+        "mesec": ["4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 5, 3],
+    "kraj": [[652, "A1", "AC", "BREZOVICA-VRHNIKA"]],
+    "koordinate": [[45.9015014, 14.3895318]]
+  },
+  "207": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "10.0",
+          "11.0",
+          "12.0",
+          "15.0",
+          "18.0",
+          "19.0",
+          "20.0",
+          "22.0",
+          "7.0"
+        ],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "OS"],
+        "stevilka_odseka": ["207"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "8", "9"],
+        "dan": ["10d", "17d", "26d", "30d", "6d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["207"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[207, "452", "R2", "\u017dIROVNICA-LESCE"]],
+    "koordinate": [[46.3618008, 14.1544381]]
+  },
+  "1076": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "17.0", "6.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1076"],
+        "mesec": ["1", "11", "12", "7", "8", "9"],
+        "dan": ["11d", "14d", "1d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "15.0", "17.0", "18.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1076"],
+        "mesec": ["10", "12", "3", "6", "7", "8", "9"],
+        "dan": ["2d", "7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 4, 3, 2],
+    "kraj": [[1076, "403", "R2", "\u010cE\u0160NJICA-\u0160KOFJA LOKA"]],
+    "koordinate": [[46.165274, 14.3067474]]
+  },
+  "15": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["15"],
+        "mesec": ["1", "10", "11", "12", "2", "3"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "14.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["15"],
+        "mesec": ["11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 3],
+    "kraj": [[15, "A2", "AC", "LJ (BRDO-KOZARJE)"]],
+    "koordinate": [[46.041693, 14.4471931]]
+  },
+  "33": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "17.0", "18.0", "19.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["33"],
+        "mesec": ["1", "11", "2", "7", "9"],
+        "dan": ["13d"],
+        "dan_v_tednu": ["0", "1", "2", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["33"],
+        "mesec": ["1", "10", "11", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 2, 1],
+    "kraj": [[33, "H2", "HC", "MARIBOR-TEZNO"]],
+    "koordinate": [[46.5389888, 15.6511389]]
+  },
+  "689": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "17.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["689"],
+        "mesec": ["1", "11", "12", "6", "7", "9"],
+        "dan": ["11d", "14d", "18d"],
+        "dan_v_tednu": ["0", "3", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "13.0", "16.0", "19.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["689"],
+        "mesec": ["1", "10", "12", "3", "4", "5", "6", "7", "9"],
+        "dan": ["7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 0],
+    "kraj": [[689, "H3", "HC", "LJ (DUNAJSKA-CELOV\u0160KA)"]],
+    "koordinate": [[48.6227181, 21.6366666]]
+  },
+  "92": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "16.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["92"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "7", "9"],
+        "dan": ["11d", "28d", "7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "15.0", "18.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["92"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 4, 0],
+    "kraj": [[92, "A4", "AC", "HAJDINA-DRA\u017dENCI"]],
+    "koordinate": [[46.3898376, 15.8443609]]
+  },
+  "1006": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "16.0", "18.0", "20.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["1006"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "7"],
+        "dan": ["15d", "16d", "22d", "30d", "5d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "21.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1006"],
+        "mesec": ["10", "3", "5", "7", "8", "9"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 5, 3],
+    "kraj": [[1006, "102", "G2", "IDRSKO-PER\u0160ETI"]],
+    "koordinate": [[46.2321113, 13.5929364]]
+  },
+  "56": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "15.0", "19.0", "5.0", "6.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["56"],
+        "mesec": ["1", "10", "11", "12", "2", "3"],
+        "dan": ["17d", "23d", "2d", "30d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "17.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["56"],
+        "mesec": ["3", "5", "6", "7", "8", "9"],
+        "dan": ["20d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 3],
+    "kraj": [[56, "A1", "AC", "POSTOJNA-RAZDRTO"]],
+    "koordinate": [[45.7566637, 14.0599027]]
+  },
+  "111": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "16.0", "19.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["111"],
+        "mesec": ["1", "10", "11", "2", "3", "5", "6"],
+        "dan": ["19d", "24d", "30d", "31d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["111"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "7", "9"],
+        "dan": ["13d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      }
+    },
+    "dan_teden": [4, 0, 2],
+    "kraj": [[111, "A2", "AC", "PRIKLJU\u010cEK LJ BROD"]],
+    "koordinate": [null]
+  },
+  "20": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "21.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["20"],
+        "mesec": ["1", "10", "11", "12", "2", "7"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["20"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 1],
+    "kraj": [[20, "A2", "AC", "LJ (MALENCE)-\u0160MARJE-SAP"]],
+    "koordinate": [[48.886784, 0.335336590904767]]
+  },
+  "245": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["1.0", "14.0", "15.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["245"],
+        "mesec": ["1", "11", "12", "2", "3", "5", "9"],
+        "dan": ["11d", "13d", "14d", "7d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["245"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "8", "9"],
+        "dan": ["22d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 2],
+    "kraj": [[245, "1", "G1", "RUTA-MARIBOR (KOR. MOST)"]],
+    "koordinate": [[53.5835516, 26.0386823]]
+  },
+  "1204": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "18.0", "22.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1204"],
+        "mesec": ["1", "11", "12", "2", "6"],
+        "dan": ["15d", "19d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "17.0", "18.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1204"],
+        "mesec": ["10", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      }
+    },
+    "dan_teden": [4, 6, 1],
+    "kraj": [[1204, "419", "R2", "NOVO MESTO-\u0160ENTJERNEJ"]],
+    "koordinate": [[45.8432951, 15.3384729]]
+  },
+  "354": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "14.0",
+          "15.0",
+          "16.0",
+          "17.0",
+          "6.0",
+          "7.0",
+          "8.0",
+          "9.0"
+        ],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["354"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "9"],
+        "dan": ["10d", "11d", "13d", "23d", "28d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "18.0", "20.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["354"],
+        "mesec": ["10", "11", "12", "4", "5", "7", "8", "9"],
+        "dan": ["25d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [6, 4, 3],
+    "kraj": [[354, "7", "G1", "OBROV-KOZINA"]],
+    "koordinate": [[45.5438003, 14.0854916]]
+  },
+  "1423": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "13.0", "14.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1423"],
+        "mesec": ["1", "10", "11", "12", "2", "5"],
+        "dan": ["15d", "29d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1423"],
+        "mesec": ["10", "12", "3", "4", "6", "7", "8", "9"],
+        "dan": ["14d", "28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 3],
+    "kraj": [[1423, "227", "R1", "KOTLJE-SLOVENJ GRADEC"]],
+    "koordinate": [[46.509144, 15.0790677]]
+  },
+  "654": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "19.0", "5.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["654"],
+        "mesec": ["1", "10", "11", "12", "2", "5", "7", "8"],
+        "dan": ["10d", "14d", "23d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "14.0", "15.0", "19.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["654"],
+        "mesec": ["10", "11", "5", "6", "7", "8", "9"],
+        "dan": ["24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[654, "A1", "AC", "LOGATEC-UNEC"]],
+    "koordinate": [[45.8195524, 14.2908996]]
+  },
+  "1255": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "15.0", "17.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["1255"],
+        "mesec": ["1", "11", "12", "2", "3", "6", "9"],
+        "dan": ["12d", "23d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "14.0", "15.0", "19.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1255"],
+        "mesec": ["10", "3", "4", "5", "6", "8", "9"],
+        "dan": ["10d", "21d", "26d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[1255, "112", "G2", "POLJANA-RAVNE"]],
+    "koordinate": [[44.9055622, 15.5674979]]
+  },
+  "638": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "21.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["638"],
+        "mesec": ["1", "11", "2", "3", "7"],
+        "dan": ["20d", "23d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["638"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 3],
+    "kraj": [[638, "A1", "AC", "SL. KONJICE-DRAMLJE"]],
+    "koordinate": [[46.2718383, 15.3929582]]
+  },
+  "30": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "22.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["30"],
+        "mesec": ["1", "11", "2", "8", "9"],
+        "dan": ["2d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["30"],
+        "mesec": ["10", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[30, "A1", "AC", "MEJA A-\u0160ENTILJ"]],
+    "koordinate": [[46.6696034, 15.768830580455]]
+  },
+  "24": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "17.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["24"],
+        "mesec": ["1", "11", "12", "2", "6", "7"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["24"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[24, "A2", "AC", "TREBNJE-NOVO MESTO"]],
+    "koordinate": [[45.8007691, 15.1702475]]
+  },
+  "58": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "16.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["58"],
+        "mesec": ["10", "11", "12", "2", "3", "6"],
+        "dan": ["13d", "17d"],
+        "dan_v_tednu": ["0", "1", "2", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["58"],
+        "mesec": ["10", "2", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 5, 4],
+    "kraj": [[58, "A1", "AC", "SENO\u017dE\u010cE-GABRK"]],
+    "koordinate": [[45.5825235, 14.114512]]
+  },
+  "1256": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "19.0", "8.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1256"],
+        "mesec": ["1", "10", "12", "2", "9"],
+        "dan": ["3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1256"],
+        "mesec": ["10", "11", "2", "3", "6", "7", "8"],
+        "dan": ["6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[1256, "112", "G2", "RAVNE-DRAVOGRAD"]],
+    "koordinate": [[46.547094, 14.96447455]]
+  },
+  "119": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["119"],
+        "mesec": ["1", "10", "12", "2", "3", "7", "9"],
+        "dan": ["11d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["119"],
+        "mesec": ["12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[119, "A1", "AC", "RAZCEP LJ MALENCE P"]],
+    "koordinate": [null]
+  },
+  "113": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "13.0", "14.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["113"],
+        "mesec": ["1", "10", "11", "12", "2", "6", "9"],
+        "dan": ["10d", "25d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["113"],
+        "mesec": ["10", "12", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 2],
+    "kraj": [[113, "A2", "AC", "RAZCEP KOSEZE"]],
+    "koordinate": [[46.0720025, 14.4614491]]
+  },
+  "105": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "13.0", "15.0", "18.0", "20.0", "22.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["105"],
+        "mesec": ["1", "10", "11", "12", "2", "4", "5", "9"],
+        "dan": ["17d", "23d", "4d", "5d", "7d"],
+        "dan_v_tednu": ["0", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["105"],
+        "mesec": ["10", "11", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 5],
+    "kraj": [[105, "A1", "AC", "PRIKLJU\u010cEK TROJANE"]],
+    "koordinate": [null]
+  },
+  "128": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "16.0", "18.0", "21.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["128"],
+        "mesec": ["1", "11", "12", "2", "3"],
+        "dan": ["10d", "16d", "9d"],
+        "dan_v_tednu": ["0", "2", "3", "4"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["128"],
+        "mesec": ["10", "2", "3", "4", "5", "6", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 4, 2],
+    "kraj": [[128, "A1", "AC", "PRIKLJU\u010cEK \u0160ENTILJ"]],
+    "koordinate": [null]
+  },
+  "118": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["118"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": ["6d"],
+        "dan_v_tednu": ["1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "14.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["118"],
+        "mesec": ["10", "11", "12", "3", "4", "6", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [3, 2, 4, 0],
+    "kraj": [[118, "A1", "AC", "PRIKLJU\u010cEK LJ JUG (DOLENJSKA C.)"]],
+    "koordinate": [null]
+  },
+  "51": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "18.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["51"],
+        "mesec": ["11", "2", "6", "7", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["51"],
+        "mesec": ["10", "11", "4", "5", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[51, "A1", "AC", "LJ (KOZARJE)-BREZOVICA"]],
+    "koordinate": [[45.9480324, 14.4180336350525]]
+  },
+  "62": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["62"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["62"],
+        "mesec": ["1", "11", "4", "5", "6", "7", "8", "9"],
+        "dan": ["10d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 1, 4],
+    "kraj": [[62, "A1", "AC", "\u010cRNI KAL-SRMIN"]],
+    "koordinate": [[45.5584169, 13.7698508]]
+  },
+  "29": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["29"],
+        "mesec": ["1", "11", "12", "2"],
+        "dan": ["1d", "20d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["29"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 5, 4],
+    "kraj": [[29, "A2", "AC", "BRE\u017dICE-OBRE\u017dJE"]],
+    "koordinate": [[45.8520907, 15.6892871]]
+  },
+  "34": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["34"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "7"],
+        "dan": ["10d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "15.0", "16.0", "19.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["34"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": ["13d", "19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 0, 4],
+    "kraj": [[34, "A1", "AC", "SLIVNICA"]],
+    "koordinate": [[40.9586103, 21.080741]]
+  },
+  "239": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "17.0", "18.0", "7.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["239"],
+        "mesec": ["1", "10", "11", "12", "3", "4", "9"],
+        "dan": ["8d"],
+        "dan_v_tednu": ["1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["239"],
+        "mesec": ["2", "3", "4", "6", "7", "8"],
+        "dan": ["14d", "18d", "19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 6, 3],
+    "kraj": [[239, "111", "G2", "VALETA-SE\u010cOVLJE"]],
+    "koordinate": [[45.5072692, 13.6019037]]
+  },
+  "1298": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "19.0", "6.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "M", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["1298"],
+        "mesec": ["1", "10", "11", "12", "2", "6"],
+        "dan": ["10d", "24d", "28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": [
+          "10.0",
+          "11.0",
+          "12.0",
+          "14.0",
+          "15.0",
+          "16.0",
+          "18.0",
+          "6.0"
+        ],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1298"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 1],
+    "kraj": [[1298, "441", "R2", "MURSKA SOBOTA-GEDEROVCI"]],
+    "koordinate": [[46.6797713, 16.0524453]]
+  },
+  "315": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "15.0", "17.0", "19.0", "22.0", "6.0"],
+        "PRVR_Vreme": ["", "D", "J", "O", "S"],
+        "PRSP_Promet": ["", "N", "R"],
+        "PRPV_Povrsje": ["", "MO", "SP"],
+        "stevilka_odseka": ["315"],
+        "mesec": ["1", "11", "12", "3", "5"],
+        "dan": ["12d", "13d", "14d", "18d", "19d", "6d", "8d", "9d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["315"],
+        "mesec": ["10", "12", "3", "4", "5", "6", "8", "9"],
+        "dan": ["5d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[315, "449", "R2", "LENART-GORNJA RADGONA"]],
+    "koordinate": [[46.6769963, 15.9913176]]
+  },
+  "72": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["72"],
+        "mesec": ["1", "12", "2", "5", "9"],
+        "dan": ["15d", "17d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["72"],
+        "mesec": ["1", "10", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 3],
+    "kraj": [[72, "A2", "AC", "BI\u010c-TREBNJE"]],
+    "koordinate": [[45.9260732, 14.8891476]]
+  },
+  "14": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["14"],
+        "mesec": ["1", "10", "12", "2", "3", "9"],
+        "dan": ["28d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["14"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 0, 2],
+    "kraj": [[14, "A2", "AC", "LJ (KOSEZE-BRDO)"]],
+    "koordinate": [[45.7427144, 13.7619942]]
+  },
+  "4910": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "14.0", "16.0", "20.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["4910"],
+        "mesec": ["1", "10", "11", "12", "2", "6"],
+        "dan": ["17d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "18.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["4910"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 4, 1],
+    "kraj": [[4910, "713", "R3", "LJUTOMER-SAVCI-PTUJ"]],
+    "koordinate": [[46.419351, 15.8709841]]
+  },
+  "40": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "16.0", "22.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["40"],
+        "mesec": ["1", "10", "11", "2", "4", "6", "7", "9"],
+        "dan": ["11d", "2d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "6.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["40"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 2, 3],
+    "kraj": [[40, "A1", "AC", "CELJE-ARJA VAS"]],
+    "koordinate": [[46.2557626, 15.194928]]
+  },
+  "42": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "18.0", "19.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "N", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["42"],
+        "mesec": ["1", "10", "11", "12", "2"],
+        "dan": ["23d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "18.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["42"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 3, 2],
+    "kraj": [[42, "A1", "AC", "\u0160ENTRUPERT-VRANSKO"]],
+    "koordinate": [[46.2431283, 14.947497]]
+  },
+  "268": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "14.0", "15.0", "16.0", "18.0", "7.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["268"],
+        "mesec": ["1", "11", "2", "3", "5", "7", "8"],
+        "dan": ["12d", "15d", "20d", "21d", "23d", "25d", "28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "19.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["268"],
+        "mesec": ["10", "12", "3", "5", "6", "7", "8", "9"],
+        "dan": ["8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 4, 6, 2],
+    "kraj": [[268, "437", "R2", "\u0160ENTILJ-PESNICA"]],
+    "koordinate": [[46.6139679, 15.661717]]
+  },
+  "1261": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "13.0", "15.0", "18.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1261"],
+        "mesec": ["1", "11", "12", "2", "7", "9"],
+        "dan": ["26d", "2d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["13.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1261"],
+        "mesec": ["10", "11", "12", "4", "5", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 5, 3, 2],
+    "kraj": [[1261, "4", "G1", "VELENJE-\u010cRNOVA"]],
+    "koordinate": [[46.3257942, 15.1895964]]
+  },
+  "637": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "13.0", "14.0", "16.0", "21.0", "8.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["637"],
+        "mesec": ["1", "10", "11", "12", "2", "5", "9"],
+        "dan": ["11d", "13d", "15d", "24d"],
+        "dan_v_tednu": ["1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["637"],
+        "mesec": ["10", "11", "12", "3", "5", "6", "7", "8", "9"],
+        "dan": ["17d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 2, 3],
+    "kraj": [[637, "A1", "AC", "SL. BISTRICA-SL. KONJICE"]],
+    "koordinate": [[46.38540235, 15.565238265673]]
+  },
+  "312": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "15.0", "16.0", "18.0", "22.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["312"],
+        "mesec": ["10", "12", "2", "4", "5", "8"],
+        "dan": ["10d", "6d", "9d"],
+        "dan_v_tednu": ["0", "1", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0", "18.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["312"],
+        "mesec": ["10", "12", "4", "6", "7", "8", "9"],
+        "dan": ["27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 4, 2, 1],
+    "kraj": [[312, "409", "R2", "KASTELEC-\u010cRNI KAL"]],
+    "koordinate": [[45.5701881, 13.8696388]]
+  },
+  "44": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "6.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["44"],
+        "mesec": ["1", "10", "11", "12", "2", "6", "7"],
+        "dan": ["11d", "13d", "3d", "7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["44"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [3, 2, 4, 0],
+    "kraj": [[44, "A1", "AC", "BLAGOVICA-KRTINA"]],
+    "koordinate": [[50.79925, 14.055]]
+  },
+  "208": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["208"],
+        "mesec": ["1", "12", "2", "4", "5", "7"],
+        "dan": ["14d", "22d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["208"],
+        "mesec": ["10", "11", "4", "6", "8", "9"],
+        "dan": ["23d", "31d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[208, "452", "R2", "LESCE-\u010cRNIVEC"]],
+    "koordinate": [[46.334812, 14.218547]]
+  },
+  "57": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "17.0", "7.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["57"],
+        "mesec": ["11", "12", "2", "7", "8", "9"],
+        "dan": ["23d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["57"],
+        "mesec": ["10", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 0, 5],
+    "kraj": [[57, "A1", "AC", "RAZDRTO-SENO\u017dE\u010cE"]],
+    "koordinate": [[45.7567731, 14.0557469]]
+  },
+  "373": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "18.0", "6.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["373"],
+        "mesec": ["1", "11", "12", "3", "4"],
+        "dan": ["12d", "2d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "13.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["373"],
+        "mesec": ["2", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 3, 6],
+    "kraj": [[373, "111", "G2", "RUDA (IZOLA)-VALETA"]],
+    "koordinate": [[35.8989818, 14.5136759]]
+  },
+  "644": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["1.0", "15.0", "18.0", "19.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["644"],
+        "mesec": ["1", "11", "12", "2", "8"],
+        "dan": ["22d", "28d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["644"],
+        "mesec": ["10", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": ["4d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 1, 4],
+    "kraj": [[644, "A1", "AC", "BLAGOVICA-KRTINA"]],
+    "koordinate": [[50.79925, 14.055]]
+  },
+  "39": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "20.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["39"],
+        "mesec": ["1", "10", "12", "2", "9"],
+        "dan": ["13d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "18.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["39"],
+        "mesec": ["10", "3", "4", "5", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 2, 4],
+    "kraj": [[39, "A1", "AC", "DRAMLJE-CELJE"]],
+    "koordinate": [[46.2309234, 15.2659932]]
+  },
+  "211": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "5.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["211"],
+        "mesec": ["1", "10", "2"],
+        "dan": ["23d", "2d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "16.0", "21.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["211"],
+        "mesec": ["10", "2", "3", "4", "6", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 2, 3],
+    "kraj": [[211, "211", "R1", "KRANJ (LABORE)-JEPRCA"]],
+    "koordinate": [[46.1578173, 14.395844]]
+  },
+  "125": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "18.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["125"],
+        "mesec": ["1", "11", "12", "2", "9"],
+        "dan": ["19d", "26d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "16.0", "22.0", "5.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["125"],
+        "mesec": ["10", "2", "3", "4", "6", "7", "8", "9"],
+        "dan": ["12d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[125, "A2", "AC", "PRIKLJU\u010cEK KRONOVO"]],
+    "koordinate": [null]
+  },
+  "262": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["16.0", "20.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["262"],
+        "mesec": ["1", "11", "12", "2", "5"],
+        "dan": ["7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "19.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["262"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 5, 3, 2],
+    "kraj": [[262, "106", "G2", "RA\u0160ICA-\u017dLEBI\u010c"]],
+    "koordinate": [[46.1035059, 14.6493012]]
+  },
+  "250": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "16.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["250"],
+        "mesec": ["1", "10", "2", "3", "5", "9"],
+        "dan": ["6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "18.0", "6.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["250"],
+        "mesec": ["10", "11", "3", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[250, "2", "G1", "SPUHLJA-ORMO\u017d"]],
+    "koordinate": [[46.4073475, 16.1475336]]
+  },
+  "655": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "16.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["MO", "PP", "SL", "SP"],
+        "stevilka_odseka": ["655"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "4", "9"],
+        "dan": ["15d", "23d", "4d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["655"],
+        "mesec": ["10", "11", "6", "7", "8", "9"],
+        "dan": ["10d", "21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[655, "A1", "AC", "UNEC-POSTOJNA"]],
+    "koordinate": [[45.7752438, 14.2117877]]
+  },
+  "274": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["18.0", "19.0", "20.0", "22.0", "4.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["274"],
+        "mesec": ["11", "12", "2"],
+        "dan": ["12d", "19d", "20d", "3d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "16.0", "19.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["274"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8"],
+        "dan": ["12d", "20d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 3],
+    "kraj": [[274, "430", "R2", "SLIVNICA-SL. BISTRICA"]],
+    "koordinate": [[46.38540235, 15.565238265673]]
+  },
+  "1008": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["14.0", "16.0", "20.0", "7.0", "9.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1008"],
+        "mesec": ["1", "10", "11", "12", "2", "4", "7", "9"],
+        "dan": ["14d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1008"],
+        "mesec": ["11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": ["14d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 3, 1],
+    "kraj": [[1008, "103", "G2", "U\u0160NIK-PLAVE"]],
+    "koordinate": [[46.0411219, 13.5895793]]
+  },
+  "2501": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "18.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["2501"],
+        "mesec": ["1", "10", "12", "7"],
+        "dan": ["22d", "24d", "26d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "17.0", "19.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["2501"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "8", "9"],
+        "dan": ["21d", "26d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 5],
+    "kraj": [[2501, "664", "R3", "GABER-UR\u0160NA S.-NOVO M. "]],
+    "koordinate": [[43.8899641, 22.5235336]]
+  },
+  "241": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "12.0",
+          "13.0",
+          "16.0",
+          "17.0",
+          "22.0",
+          "5.0",
+          "6.0",
+          "9.0"
+        ],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["241"],
+        "mesec": ["1", "10", "12", "2", "6", "8", "9"],
+        "dan": ["11d", "24d", "25d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["241"],
+        "mesec": ["10", "11", "12", "2", "5", "6", "9"],
+        "dan": ["7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 2, 4],
+    "kraj": [[241, "1", "G1", "DRAVOGRAD-RADLJE"]],
+    "koordinate": [[46.6141404, 15.2214072621677]]
+  },
+  "620": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "15.0", "17.0", "6.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["620"],
+        "mesec": ["1", "10", "11", "12", "2", "8", "9"],
+        "dan": ["14d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "16.0", "20.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["620"],
+        "mesec": ["10", "11", "2", "3", "5", "6", "7", "8", "9"],
+        "dan": ["14d", "23d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 1, 2, 0],
+    "kraj": [[620, "A2", "AC", "LJ (MALENCE)-\u0160MARJE-SAP"]],
+    "koordinate": [[48.886784, 0.335336590904767]]
+  },
+  "485": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["18.0", "20.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["485"],
+        "mesec": ["10", "11", "12", "2", "6"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "15.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["485"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "9"],
+        "dan": ["17d", "23d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[485, "437", "R2", "PRIKLJU\u010cEK \u0160ENTILJ MEJA"]],
+    "koordinate": [null]
+  },
+  "1136": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "18.0", "20.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1136"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "5", "7"],
+        "dan": ["2d", "30d"],
+        "dan_v_tednu": ["0", "1", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "15.0", "16.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1136"],
+        "mesec": ["10", "3", "4", "6", "7", "8", "9"],
+        "dan": ["27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[1136, "104", "G2", "KRANJ-SP. BRNIK"]],
+    "koordinate": [[46.228536, 14.4857047]]
+  },
+  "1181": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "15.0", "20.0", "21.0", "7.0", "8.0"],
+        "PRVR_Vreme": ["", "D", "O"],
+        "PRSP_Promet": ["", "G", "N", "R"],
+        "PRPV_Povrsje": ["", "MO", "SP"],
+        "stevilka_odseka": ["1181"],
+        "mesec": ["1", "11", "12", "2", "6", "7", "9"],
+        "dan": ["16d", "17d", "22d", "7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "17.0", "18.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1181"],
+        "mesec": ["10", "11", "3", "4", "6", "7", "8"],
+        "dan": ["11d", "20d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [2, 3, 1],
+    "kraj": [[1181, "108", "G2", "\u0160ENTJAKOB-RIB\u010cE"]],
+    "koordinate": [[46.099503, 14.7699601]]
+  },
+  "1265": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "17.0", "6.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["1265"],
+        "mesec": ["1", "12", "2", "3", "7"],
+        "dan": ["11d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "14.0", "15.0", "17.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1265"],
+        "mesec": ["10", "11", "12", "3", "5", "6", "7", "8"],
+        "dan": ["3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      }
+    },
+    "dan_teden": [0, 4, 1],
+    "kraj": [[1265, "425", "R2", "POLJANA-\u0160ENTVID"]],
+    "koordinate": [[46.0968344, 14.466245]]
+  },
+  "265": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["18.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["265"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "6"],
+        "dan": ["17d", "22d"],
+        "dan_v_tednu": ["0", "1", "2", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["16.0", "18.0", "20.0", "22.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["265"],
+        "mesec": ["10", "11", "3", "6", "7", "8", "9"],
+        "dan": ["9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [6, 4, 5, 1],
+    "kraj": [[265, "106", "G2", "LIVOLD-FARA"]],
+    "koordinate": [[11.4201776, -2.67650954329268]]
+  },
+  "1258": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "17.0", "18.0", "5.0", "6.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["1258"],
+        "mesec": ["1", "10", "11", "12", "2", "6", "8"],
+        "dan": ["12d", "14d", "23d", "28d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "13.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1258"],
+        "mesec": ["10", "11", "3", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [0, 2, 4],
+    "kraj": [[1258, "4", "G1", "OTI\u0160KI VRH-SL. GRADEC"]],
+    "koordinate": [[46.57477775, 15.0293451222014]]
+  },
+  "636": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "11.0",
+          "16.0",
+          "20.0",
+          "22.0",
+          "23.0",
+          "4.0",
+          "6.0",
+          "8.0"
+        ],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL", "SN", "SP"],
+        "stevilka_odseka": ["636"],
+        "mesec": ["1", "12", "2", "4", "5"],
+        "dan": ["10d", "17d", "22d", "23d", "2d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["14.0", "15.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["636"],
+        "mesec": ["10", "11", "12", "4", "6", "7", "9"],
+        "dan": ["14d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[636, "A1", "AC", "FRAM-SL. BISTRICA"]],
+    "koordinate": [[46.38540235, 15.565238265673]]
+  },
+  "1246": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "15.0", "16.0", "17.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1246"],
+        "mesec": ["1", "10", "2", "4", "8", "9"],
+        "dan": ["14d", "27d", "28d", "2d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "17.0", "18.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1246"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 1, 4],
+    "kraj": [[1246, "225", "R1", "SOTESKA-\u0160ENTRUPERT"]],
+    "koordinate": [[45.977225, 15.0913523]]
+  },
+  "1162": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "11.0",
+          "12.0",
+          "13.0",
+          "17.0",
+          "18.0",
+          "2.0",
+          "21.0",
+          "6.0"
+        ],
+        "PRVR_Vreme": ["D", "J", "M", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["1162"],
+        "mesec": ["1", "10", "11", "2", "9"],
+        "dan": ["12d", "15d", "1d", "26d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1162"],
+        "mesec": ["10", "12", "2", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": ["14d", "20d", "21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 6, 5],
+    "kraj": [[1162, "215", "R1", "TREBNJE-MOKRONOG"]],
+    "koordinate": [[45.9426493, 15.1446786]]
+  },
+  "653": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "16.0", "17.0", "22.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["653"],
+        "mesec": ["1", "10", "11", "12", "5", "9"],
+        "dan": ["20d", "26d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["653"],
+        "mesec": ["10", "11", "12", "6", "7", "8"],
+        "dan": ["12d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[653, "A1", "AC", "VRHNIKA-LOGATEC"]],
+    "koordinate": [[45.9186891, 14.2275537188103]]
+  },
+  "115": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "20.0", "23.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["115"],
+        "mesec": ["10", "11", "12", "5", "7", "9"],
+        "dan": ["23d", "5d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "15.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["115"],
+        "mesec": ["12", "2", "3", "6", "7", "9"],
+        "dan": ["11d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 4, 3],
+    "kraj": [[115, "A2", "AC", "RAZCEP LJ KOZARJE"]],
+    "koordinate": [null]
+  },
+  "263": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "19.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["263"],
+        "mesec": ["1", "10", "11", "12", "2", "3"],
+        "dan": ["11d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "20.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["263"],
+        "mesec": ["10", "11", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 1],
+    "kraj": [[263, "106", "G2", "\u017dLEBI\u010c-KO\u010cEVJE"]],
+    "koordinate": [[45.642511, 14.8597708]]
+  },
+  "1242": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "18.0", "20.0", "5.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "M", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["1242"],
+        "mesec": ["1", "12", "2", "3", "4", "6"],
+        "dan": ["3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "16.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1242"],
+        "mesec": ["10", "11", "12", "5", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 6],
+    "kraj": [[1242, "219", "R1", "BIZELJSKO-\u010cATE\u017d"]],
+    "koordinate": [[45.9705365, 14.9588038]]
+  },
+  "607": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "15.0", "16.0", "5.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["607"],
+        "mesec": ["1", "11", "12", "2", "4", "5", "7", "9"],
+        "dan": ["10d", "17d", "24d", "6d", "7d", "8d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "14.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["607"],
+        "mesec": ["10", "11", "3", "5", "6", "7", "8", "9"],
+        "dan": ["20d", "24d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [5, 0, 2],
+    "kraj": [[607, "A2", "AC", "KRANJ Z-KRANJ"]],
+    "koordinate": [[46.2389548, 14.3482471]]
+  },
+  "622": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "20.0", "5.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["622"],
+        "mesec": ["1", "10", "11", "12", "2", "6", "7", "8", "9"],
+        "dan": ["25d", "2d", "6d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["5.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["622"],
+        "mesec": ["10", "11", "4", "5", "6", "7", "8", "9"],
+        "dan": ["22d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 1],
+    "kraj": [[622, "A2", "AC", "GROSUPLJE-IVAN\u010cNA GORICA"]],
+    "koordinate": [[45.9385838, 14.8042412]]
+  },
+  "642": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["23.0", "9.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["642"],
+        "mesec": ["11", "12", "2", "7"],
+        "dan": ["18d", "22d", "7d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["642"],
+        "mesec": ["10", "12", "4", "5", "6", "7", "8", "9"],
+        "dan": ["11d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 3, 0],
+    "kraj": [[642, "A1", "AC", "\u0160ENTRUPERT-VRANSKO"]],
+    "koordinate": [[46.2431283, 14.947497]]
+  },
+  "91": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "15.0", "17.0", "18.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["91"],
+        "mesec": ["1", "2", "4", "9"],
+        "dan": ["13d", "3d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "15.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["91"],
+        "mesec": ["10", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 3, 5, 1],
+    "kraj": [[91, "A4", "AC", "SLIVNICA-HAJDINA"]],
+    "koordinate": [[46.4106741, 15.8129351]]
+  },
+  "640": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["17.0", "4.0", "6.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SL"],
+        "stevilka_odseka": ["640"],
+        "mesec": ["11", "12", "2", "3", "4"],
+        "dan": ["6d"],
+        "dan_v_tednu": ["1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["640"],
+        "mesec": ["11", "12", "3", "5", "6", "7", "8", "9"],
+        "dan": ["12d", "20d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 5],
+    "kraj": [[640, "A1", "AC", "CELJE-ARJA VAS"]],
+    "koordinate": [[46.2557626, 15.194928]]
+  },
+  "347": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "16.0",
+          "18.0",
+          "20.0",
+          "21.0",
+          "22.0",
+          "6.0",
+          "7.0",
+          "9.0"
+        ],
+        "PRVR_Vreme": ["D", "O", "V"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["347"],
+        "mesec": ["1", "10", "11", "2", "3", "4", "9"],
+        "dan": ["10d", "16d", "22d", "25d", "26d", "28d", "29d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "16.0", "17.0", "21.0", "7.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["347"],
+        "mesec": ["1", "10", "12", "3", "5", "6", "7", "8"],
+        "dan": ["12d", "18d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [6, 3, 2],
+    "kraj": [[347, "444", "R2", "SELO-NOVA GORICA"]],
+    "koordinate": [[45.5494129, 15.2364864]]
+  },
+  "41": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "16.0", "17.0", "8.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN"],
+        "stevilka_odseka": ["41"],
+        "mesec": ["1", "10", "11", "2", "5", "8", "9"],
+        "dan": ["12d", "15d", "16d", "17d", "26d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "15.0", "16.0", "18.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["41"],
+        "mesec": ["10", "11", "12", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 2],
+    "kraj": [[41, "A1", "AC", "ARJA VAS-\u0160ENTRUPERT"]],
+    "koordinate": [[45.977225, 15.0913523]]
+  },
+  "641": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["10.0", "15.0", "17.0", "2.0", "22.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["641"],
+        "mesec": ["1", "10", "12", "2", "3", "6", "7"],
+        "dan": ["14d", "15d", "19d", "20d", "26d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["15.0", "16.0", "18.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["641"],
+        "mesec": ["10", "3", "5", "6", "7", "8", "9"],
+        "dan": ["17d", "30d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[641, "A1", "AC", "ARJA VAS-\u0160ENTRUPERT"]],
+    "koordinate": [[45.977225, 15.0913523]]
+  },
+  "662": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["1.0", "10.0", "11.0", "15.0", "7.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["662"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "9"],
+        "dan": ["13d", "14d", "24d", "27d", "3d", "6d", "9d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "14.0", "15.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["662"],
+        "mesec": ["1", "10", "3", "4", "5", "6", "7", "8"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[662, "A1", "AC", "\u010cRNI KAL-SRMIN"]],
+    "koordinate": [[45.5584169, 13.7698508]]
+  },
+  "70": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "13.0", "14.0", "18.0", "19.0", "20.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["70"],
+        "mesec": ["1", "11", "2", "3", "5", "9"],
+        "dan": ["10d", "12d", "16d", "20d", "23d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "14.0", "15.0", "16.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["70"],
+        "mesec": ["10", "11", "3", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 0, 2],
+    "kraj": [[70, "A3", "AC", "SE\u017dANA Z-FERNETI\u010cI"]],
+    "koordinate": [[45.7068933, 13.8500102]]
+  },
+  "393": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "16.0", "6.0", "7.0"],
+        "PRVR_Vreme": ["D", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["393"],
+        "mesec": ["11", "12", "2", "3", "5"],
+        "dan": ["14d", "5d", "7d"],
+        "dan_v_tednu": ["0", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "15.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["393"],
+        "mesec": ["11", "3", "4", "5", "6", "7"],
+        "dan": ["23d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      }
+    },
+    "dan_teden": [0, 3, 2, 1],
+    "kraj": [[393, "2", "G1", "\u0160IKOLE-HAJDINA"]],
+    "koordinate": [[46.41990755, 15.8239305751558]]
+  },
+  "151": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": [
+          "12.0",
+          "13.0",
+          "14.0",
+          "15.0",
+          "17.0",
+          "19.0",
+          "20.0",
+          "22.0"
+        ],
+        "PRVR_Vreme": ["", "D", "O"],
+        "PRSP_Promet": ["", "G", "N", "R"],
+        "PRPV_Povrsje": ["", "MO"],
+        "stevilka_odseka": ["151"],
+        "mesec": ["10", "12", "2", "3", "5", "9"],
+        "dan": ["10d", "15d", "20d", "24d", "9d"],
+        "dan_v_tednu": ["1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "15.0", "16.0", "18.0", "20.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["151"],
+        "mesec": ["1", "11", "12", "5", "6", "7", "8", "9"],
+        "dan": ["5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 3, 2],
+    "kraj": [[151, "A1", "AC", "PRIKLJU\u010cEK LOGATEC"]],
+    "koordinate": [null]
+  },
+  "1109": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["13.0", "14.0", "16.0", "6.0", "7.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1109"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "8", "9"],
+        "dan": ["20d", "23d", "25d", "31d", "7d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "13.0", "14.0", "15.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1109"],
+        "mesec": ["11", "3", "4", "5", "6", "8", "9"],
+        "dan": ["10d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [1, 4, 3],
+    "kraj": [[1109, "210", "R1", "KRANJ-\u0160KOFJA LOKA"]],
+    "koordinate": [[46.165274, 14.3067474]]
+  },
+  "222": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["11.0", "14.0", "16.0", "17.0", "9.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["222"],
+        "mesec": ["10", "12", "2", "5", "7", "8"],
+        "dan": ["10d", "15d", "5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "11.0", "12.0", "16.0", "17.0", "19.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["222"],
+        "mesec": ["10", "2", "3", "4", "5", "6", "8", "9"],
+        "dan": ["18d", "22d", "27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 3, 0],
+    "kraj": [[222, "448", "R2", "PRIKLJU\u010cEK NM ZAHOD-LO\u010cNA"]],
+    "koordinate": [[45.8204366, 15.1808039]]
+  },
+  "1034": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["20.0", "22.0", "23.0", "5.0", "6.0", "7.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1034"],
+        "mesec": ["1", "11", "12", "2", "3", "5", "6", "9"],
+        "dan": ["13d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "13.0", "15.0", "16.0", "18.0", "21.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1034"],
+        "mesec": ["11", "3", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [3, 0, 4, 1],
+    "kraj": [[1034, "102", "G2", "SP. IDRIJA-GODOVI\u010c"]],
+    "koordinate": [[45.956899, 14.0928113]]
+  },
+  "49": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["18.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["49"],
+        "mesec": ["1", "10", "11", "12", "2", "9"],
+        "dan": ["5d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["10.0", "12.0", "14.0", "15.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["49"],
+        "mesec": ["10", "11", "4", "5", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 2, 0],
+    "kraj": [[49, "A1", "AC", "LJ (ZALO\u0160KA-LITIJSKA)"]],
+    "koordinate": [[46.0461164, 14.5740423]]
+  },
+  "1009": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1009"],
+        "mesec": ["10", "11", "2", "3", "6"],
+        "dan": ["19d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1009"],
+        "mesec": ["10", "3", "6", "7", "8", "9"],
+        "dan": ["27d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [4, 5, 2],
+    "kraj": [[1009, "103", "G2", "PLAVE-SOLKAN"]],
+    "koordinate": [[45.972742, 13.649443]]
+  },
+  "1156": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "18.0", "19.0", "20.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["1156"],
+        "mesec": ["1", "10", "11", "12", "2", "3", "8"],
+        "dan": ["10d", "11d", "24d", "2d", "3d", "4d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["21.0", "5.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1156"],
+        "mesec": ["10", "11", "3", "4", "5", "6", "7", "8"],
+        "dan": ["21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [2, 1, 3],
+    "kraj": [[1156, "214", "R1", "KO\u010cEVJE-STARI LOG"]],
+    "koordinate": [[45.7259142, 14.921358]]
+  },
+  "61": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["12.0", "14.0", "16.0", "20.0", "8.0", "9.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SP"],
+        "stevilka_odseka": ["61"],
+        "mesec": ["1", "10", "11", "12", "3", "4", "8"],
+        "dan": ["10d", "14d", "20d", "3d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "16.0", "17.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["61"],
+        "mesec": ["10", "11", "4", "6", "7", "8", "9"],
+        "dan": [],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5"]
+      }
+    },
+    "dan_teden": [4, 1, 0],
+    "kraj": [[61, "A1", "AC", "KOZINA-\u010cRNI KAL"]],
+    "koordinate": [[45.5504825, 13.8771699]]
+  },
+  "351": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["0.0", "12.0", "14.0", "15.0", "20.0", "6.0", "8.0"],
+        "PRVR_Vreme": ["D", "J", "O", "S"],
+        "PRSP_Promet": ["G", "N", "R"],
+        "PRPV_Povrsje": ["MO", "SN", "SP"],
+        "stevilka_odseka": ["351"],
+        "mesec": ["1", "11", "12", "2", "3", "4", "9"],
+        "dan": ["28d", "2d", "30d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["11.0", "12.0", "14.0", "16.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["G", "N", "R", "Z"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["351"],
+        "mesec": ["2", "4", "6", "7", "8", "9"],
+        "dan": ["18d"],
+        "dan_v_tednu": ["0", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [0, 5, 4],
+    "kraj": [[351, "9", "G1", "JUROVCI-GRU\u0160KOVJE"]],
+    "koordinate": [[46.3648201, 15.8671443]]
+  },
+  "1208": {
+    "povrsje": {
+      "ne_suho": {
+        "Cas_Nesrece": ["15.0", "19.0", "21.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["D", "J", "O"],
+        "PRSP_Promet": ["R"],
+        "PRPV_Povrsje": ["MO"],
+        "stevilka_odseka": ["1208"],
+        "mesec": ["1", "10", "11", "3", "5"],
+        "dan": ["14d", "21d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "5"]
+      },
+      "suho": {
+        "Cas_Nesrece": ["0.0", "20.0", "22.0", "5.0", "6.0"],
+        "PRVR_Vreme": ["J", "O"],
+        "PRSP_Promet": ["N", "R"],
+        "PRPV_Povrsje": ["SU"],
+        "stevilka_odseka": ["1208"],
+        "mesec": ["10", "11", "3", "6", "7", "8", "9"],
+        "dan": ["14d", "15d"],
+        "dan_v_tednu": ["0", "1", "2", "3", "4", "5", "6"]
+      }
+    },
+    "dan_teden": [5, 1, 0],
+    "kraj": [[1208, "217", "R1", "LIVOLD-BREZOVICA"]],
+    "koordinate": [[45.9480324, 14.4180336350525]]
+  }
+}

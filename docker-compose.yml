@@ -1,0 +1,25 @@
+version: '2.0'
+services:
+    server:
+        restart: always
+        container_name: varno_domov_server
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - '32322:5000'
+        links:
+            - react
+        networks:
+            - varnodomovnetwork
+    react:
+        restart: always
+        container_name: varno_domov_client
+        build: client/
+        ports:
+            - '32323:80'
+        networks:
+            - varnodomovnetwork
+networks:
+    varnodomovnetwork:
+        driver: bridge

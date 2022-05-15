@@ -1,0 +1,7 @@
+node_modules
+.idea
+README.md
+.env.development
+.env.production
+coverage
+.nyc_output

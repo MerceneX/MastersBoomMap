@@ -1,0 +1,59 @@
+{
+  "name": "praktikum-ii",
+  "version": "1.0.0",
+  "description": "Zaključni projekt 2. letnika ITK uni.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "dotenv": "^8.2.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "chai-as-promised": "^7.1.1",
+    "cross-env": "^7.0.3",
+    "mocha": "^8.4.0",
+    "mocha-sonarqube-reporter": "^1.0.2",
+    "nodemon": "^2.0.7",
+    "nyc": "^15.1.0"
+  },
+  "scripts": {
+    "c-install": "cd client & npm install",
+    "dev": "cross-env NODE_ENV=development npx nodemon",
+    "prod": "NODE_ENV=production node server.js",
+    "client": "cd client & npm start",
+    "i-dep": "npm install & npm run c-install",
+    "test": "mocha",
+    "test-with-coverage": "nyc --reporter=text mocha",
+    "test-with-coverage-html-report": "nyc --reporter=html mocha",
+    "test-sonar-generic": "mocha --reporter mocha-sonarqube-reporter test --reporter-options output=coverage/generic-report.xml",
+    "test-sonar-lcov": "nyc --reporter=lcov --report-dir=coverage mocha"
+  },
+  "config": {
+    "mocha-sonar-reporter": {
+      "classname": "Test",
+      "testdir": "test",
+      "outputfile": "test-coverage.xml"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerceneX/Praktikum-II.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "python"
+  ],
+  "author": "Marko, Maruša, Nataša, Pina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerceneX/Praktikum-II/issues"
+  },
+  "homepage": "https://github.com/MerceneX/Praktikum-II#readme"
+}
